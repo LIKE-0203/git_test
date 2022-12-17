@@ -8,7 +8,7 @@ public class GitTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitTestApplication.class, args);
-        System.out.println("同一位置上，是test分支修改的内容");
+        System.out.println("同一位置上，是master分支修改的内容");
     }
 
 }
