@@ -11,6 +11,7 @@ public class GitTestApplication {
         System.out.println("同一位置上，是来自master分支修改的内容");
         System.out.println("同一位置上，是来自test分支修改的内容");
         System.out.println("111");
+        System.out.println("来GitHub上与本地不同的代码");
     }
 
 }
